@@ -1,0 +1,16 @@
+C:\Users\ospite\source\repos\Agenzia\bin\Debug\Agenzia.exe.config
+C:\Users\ospite\source\repos\Agenzia\bin\Debug\Agenzia.exe
+C:\Users\ospite\source\repos\Agenzia\bin\Debug\Agenzia.pdb
+C:\Users\ospite\source\repos\Agenzia\obj\Debug\Agenzia.csproj.AssemblyReference.cache
+C:\Users\ospite\source\repos\Agenzia\obj\Debug\Agenzia.csproj.SuggestedBindingRedirects.cache
+C:\Users\ospite\source\repos\Agenzia\obj\Debug\Agenzia.csproj.CoreCompileInputs.cache
+C:\Users\ospite\source\repos\Agenzia\obj\Debug\Agenzia.exe
+C:\Users\ospite\source\repos\Agenzia\obj\Debug\Agenzia.pdb
+C:\Users\matti\Desktop\Agenzia\bin\Debug\Agenzia.exe.config
+C:\Users\matti\Desktop\Agenzia\bin\Debug\Agenzia.exe
+C:\Users\matti\Desktop\Agenzia\bin\Debug\Agenzia.pdb
+C:\Users\matti\Desktop\Agenzia\obj\Debug\Agenzia.csproj.AssemblyReference.cache
+C:\Users\matti\Desktop\Agenzia\obj\Debug\Agenzia.csproj.SuggestedBindingRedirects.cache
+C:\Users\matti\Desktop\Agenzia\obj\Debug\Agenzia.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\Agenzia\obj\Debug\Agenzia.exe
+C:\Users\matti\Desktop\Agenzia\obj\Debug\Agenzia.pdb
